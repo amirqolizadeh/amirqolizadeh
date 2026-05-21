@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- 🔭 Computer Engineering Student<br>- 📍 Learning Cybersecurity / Red Team ...<br>- ⚡️ Web Penetration Testing<br>- 👨🏻‍💻 In my free time, I do ui, ux product design.</p>
+<p align="left">- 🔭 Computer Engineering Student<br>- 📍 Learning Cybersecurity / Red Team ...<br>- ⚡ Web Penetration Testing<br>- 👨🏻‍💻 In my free time, I do ui, ux product design.</p>
 
 ###
 
@@ -21,27 +21,27 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="80" alt="python logo"  />
-  <img width="19" />
-  <img src="https://skillicons.dev/icons?i=github" height="80" alt="github logo"  />
-  <img width="19" />
-  <img src="https://skillicons.dev/icons?i=git" height="80" alt="git logo"  />
-  <img width="19" />
-  <img src="https://skillicons.dev/icons?i=linux" height="80" alt="linux logo"  />
-  <img width="19" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="80" alt="vscode logo"  />
-  <img width="19" />
-  <img src="https://skillicons.dev/icons?i=django" height="80" alt="django logo"  />
-  <img width="19" />
-  <img src="https://skillicons.dev/icons?i=ps" height="80" alt="adobephotoshop logo"  />
-  <img width="19" />
-  <img src="https://skillicons.dev/icons?i=figma" height="80" alt="figma logo"  />
-  <img width="19" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="80" alt="gitlab logo"  />
-  <img width="19" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="80" alt="mysql logo"  />
-  <img width="19" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="80" alt="powershell logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="112" alt="python logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=github" height="112" alt="github logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=git" height="112" alt="git logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=linux" height="112" alt="linux logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="112" alt="vscode logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=django" height="112" alt="django logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=ps" height="112" alt="adobephotoshop logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=figma" height="112" alt="figma logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="112" alt="gitlab logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="112" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="112" alt="powershell logo"  />
 </div>
 
 ###
